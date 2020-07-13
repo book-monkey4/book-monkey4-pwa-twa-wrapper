@@ -1,0 +1,16 @@
+# ignore general files
+.DS_Store
+
+# ignore gradle build
+.gradle
+
+# ignore build stuff
+/build/
+/app/build/
+
+# ignore keystore which can be generated on each machine
+android.keystore
+
+# ignore app releases
+/app/release/
+app-release-*.apk

@@ -1,0 +1,24 @@
+{
+  "packageId": "com.angular_buch.bm4_pwa.twa",
+  "host": "bm4-pwa.angular-buch.com",
+  "name": "BookMonkey 4 PWA",
+  "launcherName": "BookMonkey",
+  "themeColor": "#DB2828",
+  "navigationColor": "#000000",
+  "backgroundColor": "#FAFAFA",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://bm4-pwa.angular-buch.com/assets/icons/icon-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "alias": "android",
+    "path": "./android.keystore"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://bm4-pwa.angular-buch.com/manifest.json",
+  "fallbackType": "customtabs",
+  "appVersion": "1"
+}

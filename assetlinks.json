@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.angular_buch.bm4_pwa.twa",
+                   "sha256_cert_fingerprints": ["DB:5E:7B:D4:DF:87:3E:45:5B:FF:88:62:0E:D9:AC:02:21:88:5B:5E:52:AA:99:84:F9:51:E4:C9:62:E9:78:87"] }
+    }]
